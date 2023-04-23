@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="forecasts">Forecasts</string>
+    <string name="Humidity">humidity</string>
+    <string name="wind_speed">wind-speed</string>
+    <string name="cloud_pct">cloud-pct</string>
+    <string name="feels_like">feels-like</string>
+    <string name="min_temp">min-Temp</string>
+    <string name="max_temp">max-Temp</string>
+</resources>
